@@ -9,10 +9,14 @@
 <table>
 <tr>
 <th>
-💻 GitHub Stats
+
+### 💻 GitHub Stats
+
 </th>
 <th>
-👨‍💻 Skills
+
+### 👨‍💻 Skills
+
 </th>
 </tr>
 <tr>
@@ -31,7 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=orange)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -42,21 +46,17 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
-![JSON](https://img.shields.io/badge/-json-black?style=flat&logo=json)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket&logoColor=0747a6)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku&logoColor=9f80c2)
+![JSON](https://img.shields.io/badge/-json-black?style=flat&logo=json&logoColor=858585)
 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
-![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery)
+![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery&logoColor=0769ad)
 
 </td>
 </tr>
 </table>
-
-<div style="display=block; float=left;">
-
-</div>
 
 ## Suport me
 
