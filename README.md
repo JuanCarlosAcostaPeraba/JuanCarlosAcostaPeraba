@@ -37,14 +37,6 @@
 
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=orange)](https://es.wikipedia.org/wiki/Java)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://es.wikipedia.org/wiki/Python)
-[![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp)](https://es.wikipedia.org/wiki/C_Sharp)
-[![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat&logo=cplusplus)](https://es.wikipedia.org/wiki/C%2B%2B)
-
-[![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sql)](https://es.wikipedia.org/wiki/SQL)
-[![R](https://img.shields.io/badge/-R-black?style=flat&logo=r-project)](https://es.wikipedia.org/wiki/R)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://es.wikipedia.org/wiki/Git)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://es.wikipedia.org/wiki/GitHub)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://es.wikipedia.org/wiki/Python)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://es.wikipedia.org/wiki/MySQL)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://es.wikipedia.org/wiki/Git)
 
