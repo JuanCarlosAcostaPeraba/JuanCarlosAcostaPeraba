@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-LinkedIn?color=informational&style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancarlosacostaperaba/)](https://www.linkedin.com/in/juancarlosacostaperaba/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-%231877F2.svg?color=blue&logoColor=white&logo=twitter&style=flat&link=https://twitter.com/JuanSerberoCode)](https://twitter.com/JuanSerberoCode)
 
-**Welcome to my profile! I'm 🎓 Web Developer Full Stack ([CIFP Majada Marcial](https://cifpmajadamarcial.com/)) and📚 Computer Engineering student ([ULPGC](https://www.ulpgc.es/))**
+**Welcome to my profile! I'm 🎓 Full Stack Web Development Technician ([CIFP Majada Marcial](https://cifpmajadamarcial.com/)) and📚 Computer Engineering student ([ULPGC](https://www.ulpgc.es/))**
 
 <table>
 <tr>
