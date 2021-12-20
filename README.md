@@ -60,5 +60,5 @@
 
 ## Suport me
 
-[![PayPal Donate](https://img.shields.io/badge/-PayPal-blue.svg?color=informational&maxAge=2592000&style=plastic)](https://paypal.me/juanserberocode)
+[![PayPal Donate](https://img.shields.io/badge/-PayPal-blue.svg?color=informational&maxAge=2592000&style=plastic)](https://www.paypal.com/donate/?hosted_button_id=S6TK2Q4KLJ27W)
 [![BuyMeACoffee Donate](https://img.shields.io/badge/-Buy%20me%20a%20Coffee-blue.svg?color=yellow&maxAge=2592000&style=plastic)](https://www.buymeacoffee.com/juanserberocode)
