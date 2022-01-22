@@ -6,7 +6,7 @@
 
 ## Welcome to my profile!
 
-**I'm 🎓 Technician in Full Stack Web Developer ([CIFP Majada Marcial](https://cifpmajadamarcial.com/)) and 📚 Computer Engineering Student ([ULPGC](https://www.ulpgc.es/)) from 🏖️ Canary Island**
+**I'm 🎓 Technician in Full Stack Web Developer ([CIFP Majada Marcial](https://cifpmajadamarcial.com/)) and 📚 Computer Engineering Student ([ULPGC](https://www.ulpgc.es/))**
 
 <table>
 <tr>
