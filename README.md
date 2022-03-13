@@ -3,7 +3,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-Portfolio?color=yellowgreen&style=flat&link=https://juancarlosacostaperaba.github.io/)](https://juancarlosacostaperaba.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-LinkedIn?color=informational&style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancarlosacostaperaba/)](https://www.linkedin.com/in/juancarlosacostaperaba/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-%231877F2.svg?color=blue&logoColor=white&logo=twitter&style=flat&link=https://twitter.com/JuanSerberoCode)](https://twitter.com/JuanSerberoCode)
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJuanCarlosAcostaPeraba&countColor=%23dce775&style=flat" alt="Visitors"/>
+[<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJuanCarlosAcostaPeraba&countColor=%23dce775&style=flat" alt="Visitors"/>](https://www.visitorbadge.io/)
 
 ## Welcome to my profile!
 
@@ -25,9 +25,9 @@
 <tr>
 <td>
 
-[![JuanCarlosAcostaPeraba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCarlosAcostaPeraba&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=false&hide_title=true)](https://github.com/JuanCarlosAcostaPeraba)
+[![JuanCarlosAcostaPeraba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCarlosAcostaPeraba&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=false&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![JuanCarlosAcostaPeraba's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlosAcostaPeraba&layout=compact&theme=dracula&hide_title=true)](https://github.com/JuanCarlosAcostaPeraba)
+[![JuanCarlosAcostaPeraba's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlosAcostaPeraba&layout=compact&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 </td>
