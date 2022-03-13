@@ -3,6 +3,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-Portfolio?color=yellowgreen&style=flat&link=https://juancarlosacostaperaba.github.io/)](https://juancarlosacostaperaba.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-LinkedIn?color=informational&style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancarlosacostaperaba/)](https://www.linkedin.com/in/juancarlosacostaperaba/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-%231877F2.svg?color=blue&logoColor=white&logo=twitter&style=flat&link=https://twitter.com/JuanSerberoCode)](https://twitter.com/JuanSerberoCode)
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJuanCarlosAcostaPeraba&countColor=%23dce775&style=flat" alt="Visitors"/>
 
 ## Welcome to my profile!
 
