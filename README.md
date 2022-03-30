@@ -51,7 +51,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket&logoColor=0747a6)](https://bitbucket.org/product/)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku&logoColor=9f80c2)](https://heroku.com/)
-[![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat&logo=iterm2&logoColor=ffffff)]()
+[![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat&logo=iterm2&logoColor=ffffff)](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
 
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&)](https://laravel.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)](https://getbootstrap.com/)
