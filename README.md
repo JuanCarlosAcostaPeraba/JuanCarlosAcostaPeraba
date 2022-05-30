@@ -1,9 +1,9 @@
 # Hi, I'm Juan Carlos 👋
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-Portfolio?color=yellowgreen&style=flat&link=https://juancarlosacostaperaba.github.io/)](https://juancarlosacostaperaba.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-LinkedIn?color=informational&style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancarlosacostaperaba/)](https://www.linkedin.com/in/juancarlosacostaperaba/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-%231877F2.svg?color=blue&logoColor=white&logo=twitter&style=flat&link=https://twitter.com/JuanSerberoCode)](https://twitter.com/JuanSerberoCode)
-[<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJuanCarlosAcostaPeraba&countColor=%23dce775&style=flat" alt="Visitors"/>](https://www.visitorbadge.io/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-Portfolio?color=yellowgreen&style=for-the-badge&link=https://juancarlosacostaperaba.github.io/)](https://juanserbero.tk/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-LinkedIn?color=informational&style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancarlosacostaperaba/)](https://www.linkedin.com/in/juancarlosacostaperaba/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-%231877F2.svg?color=blue&logoColor=white&logo=twitter&style=for-the-badge&link=https://twitter.com/JuanSerberoCode)](https://twitter.com/JuanSerberoCode)
+[<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJuanCarlosAcostaPeraba&countColor=%23dce775&style=square" alt="Visitors"/>](https://www.visitorbadge.io/)
 
 ## Welcome to my profile!
 
@@ -64,5 +64,5 @@
 
 ## Suport me
 
-[![PayPal Donate](https://img.shields.io/badge/-PayPal-blue.svg?color=informational&maxAge=2592000&style=plastic)](https://www.paypal.com/donate/?hosted_button_id=S6TK2Q4KLJ27W)
-[![BuyMeACoffee Donate](https://img.shields.io/badge/-Buy%20me%20a%20Coffee-blue.svg?color=yellow&maxAge=2592000&style=plastic)](https://www.buymeacoffee.com/juanserberocode)
+[![PayPal Donate](https://img.shields.io/badge/-PayPal-blue.svg?color=informational&maxAge=2592000&style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=S6TK2Q4KLJ27W)
+[![BuyMeACoffee Donate](https://img.shields.io/badge/-Buy%20me%20a%20Coffee-blue.svg?color=yellow&maxAge=2592000&style=for-the-badge)](https://www.buymeacoffee.com/juanserberocode)
