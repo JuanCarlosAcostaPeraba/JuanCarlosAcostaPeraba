@@ -1,4 +1,6 @@
-# Hi, I'm Juan Carlos 👋
+![JuanSerberoCode Banner](./banner_github.png)
+
+---
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-Portfolio?color=yellowgreen&style=for-the-badge&link=https://juancarlosacostaperaba.github.io/)](https://juanserbero.tk/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-%231877F2.svg?color=blue&logoColor=white&logo=twitter&style=for-the-badge&link=https://twitter.com/JuanSerberoCode)](https://twitter.com/JuanSerberoCode)
