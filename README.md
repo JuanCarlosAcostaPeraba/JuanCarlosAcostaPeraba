@@ -16,11 +16,9 @@ I'm **🎓 Technician in Full Stack Web Developer** ([CIFP Majada Marcial](https
 
 <div align="center">
 
-[![JuanCarlosAcostaPeraba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCarlosAcostaPeraba&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=false&hide_title=true&sanitize=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![JuanCarlosAcostaPeraba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCarlosAcostaPeraba&show_icons=true&theme=swift&include_all_commits=true&hide_rank=false&hide_title=true&sanitize=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![JuanCarlosAcostaPeraba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCarlosAcostaPeraba&show_icons=true&theme=default&include_all_commits=true&hide_rank=false&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![JuanCarlosAcostaPeraba's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlosAcostaPeraba&layout=compact&theme=dracula&hide_title=true&sanitize=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![JuanCarlosAcostaPeraba's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlosAcostaPeraba&layout=compact&theme=swift&hide_title=true&sanitize=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![JuanCarlosAcostaPeraba's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlosAcostaPeraba&layout=compact&theme=default&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
