@@ -1,7 +1,5 @@
 # ![JuanSerberoCode Banner](./banner_github.png)
 
----
-
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-Portfolio?color=yellowgreen&style=for-the-badge&link=https://juancarlosacostaperaba.github.io/)](https://juanserberocode.tk/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-%231877F2.svg?color=blue&logoColor=white&logo=twitter&style=for-the-badge&link=https://twitter.com/JuanSerberoCode)](https://twitter.com/JuanSerberoCode)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-LinkedIn?color=informational&style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancarlosacostaperaba/)](https://www.linkedin.com/in/juancarlosacostaperaba/)
