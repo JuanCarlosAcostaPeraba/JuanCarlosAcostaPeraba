@@ -6,12 +6,13 @@
   
   Full Stack Web Developer and Computer Engineering Student
 
-  <a href="https://juanserberocode.tk" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-5849BE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:juancarlos.ap.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Contact%20me-DC3545?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"></a>
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-5849BE?style=for-the-badge&logo=firefox&logoColor=white)](https://juanserberocode.tk)
+  [![Contact me by Mail](https://img.shields.io/badge/-Contact%20me-DC3545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancarlos.ap.dev@gmail.com)
 
-  <a href="https://www.linkedin.com/in/juancarlosacostaperaba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/jcap_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  
+  [![GitHub Follow](https://img.shields.io/github/followers/JuanCarlosAcostaPeraba?label=GitHub&logo=github&style=social)](https://github.com/JuanCarlosAcostaPeraba)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosacostaperaba/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/jcap_dev?label=Twitter&logo=Twitter&style=social)](https://twitter.com/jcap_dev)
+
 </div>
 
 ## 🙋‍♂️ About Me
