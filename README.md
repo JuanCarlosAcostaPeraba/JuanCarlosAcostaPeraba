@@ -5,9 +5,10 @@
   # Hi there! 👋 I'm Juan Carlos Acosta Perabá
   
   Full Stack Web Developer and Computer Engineering Student
-  
+
   <a href="https://juanserberocode.tk" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-5849BE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:juancarlos.ap.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Contact%20me-DC3545?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"></a>
+
   <a href="https://www.linkedin.com/in/juancarlosacostaperaba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/jcap_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   
