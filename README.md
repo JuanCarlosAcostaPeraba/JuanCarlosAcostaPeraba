@@ -28,17 +28,17 @@ Sigo mejorando mis habilidades como desarrollador front para especializarme en a
 
 - **🎨 CSS** para evitar la implementación de frameworks en las webs y hacerlas así más rápidas y ligeras.
 - **💛 JavaScript Vanilla** para mejorar mis habilidades como desarrollador front-end y poder pasar al desarrollo full-stack con JavaScript.
-- **🚀 Astro** como framework para crear webs más rápidas y ligeras.
+- **🚀 Astro** como framework para crear webs más rápidas y potenciandolas con los componentes.
 
 ## 🧑🏼‍💻 Mi experiencia
 
 Trabajé durante 5 meses [3 meses de prácticas / 2 meses de trabajador] en la empresa en la que realicé las prácticas de FP como desarrollador web full-stack, desarrollando una [aplicación web para la gestión de facturas](#projecto-final-de-fp).
 
-Impartí clases particulares de la asignatura de _Fundamentos de Programación 1 (Python)_ y _Fundamentos de Programación 2 (Python y Java)_ a alumnos de primer curso de la carrera de Ingeniería Informática, y de la asignatura de _Tecnologías de la Programación (POO en Java)_ a alumnos de segundo curso de esta.
+Impartí clases particulares de la asignatura de _Fundamentos de Programación 1 (Python)_ y _Fundamentos de Programación 2 (Python y Java)_ a alumnos de primer curso de la carrera de Ingeniería Informática, y de la asignatura _Tecnologías de la Programación (POO en Java)_ a alumnos de segundo curso de esta.
 
 Desarrollé una landing page para un proyecto de NFTs llamado [Solana Crypto Foxes](https://twitter.com/SolCryptoFoxes_).
 
-Desarrollé, casi en su totalidad, una [aplicación web tipo Quiz](#concurso-fundación-mapfre-guanarteme) para un concurso desarrollado por la Fundación MAPFRE Guanarteme.
+Y desarrollé, casi en su totalidad, una [aplicación web tipo Quiz](#concurso-fundación-mapfre-guanarteme) para un concurso desarrollado por la Fundación MAPFRE Guanarteme.
 
 ## 📂 Proyectos y reconocimientos
 
