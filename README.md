@@ -64,11 +64,11 @@ Juego estilo Quiz para formar a los empleados de MAPFRE, con sistema de puntuaci
 
 [![Logotipos de tecnologías con los que Juan Carlos suele trabajar: Git, Github, MD, Visual Studio Code, VIM, Bash, Linux, Figma](https://skillicons.dev/icons?i=git,github,md,vscode,vim,bash,linux,figma)](https://skillicons.dev)
 
-## Front-End
+### Front-End
 
 [![Logotipos de tecnologías con los que Juan Carlos suele trabajar el front-end: JavaScript, HTML, CSS, Astro, Tailwind, Boostrap, jQuery](https://skillicons.dev/icons?i=js,html,css,astro,tailwind,bootstrap,jquery)](https://skillicons.dev)
 
-## Back-End
+### Back-End
 
 [![Logotipos de tecnologías con los que Juan Carlos suele trabajar el back-end: PHP, , Laravel, MySQL, PostgreSQL](https://skillicons.dev/icons?i=php,laravel,mysql,postgres)](https://skillicons.dev)
 
