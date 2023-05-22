@@ -38,7 +38,7 @@ Impartí clases particulares de la asignatura de _Fundamentos de Programación 1
 
 Desarrollé una landing page para un proyecto de NFTs llamado [Solana Crypto Foxes](https://twitter.com/SolCryptoFoxes_).
 
-Desarrollé, casi en su totalidad, una [aplicación web tipo Quiz](#concurso-fundación-mapfre-guanarteme-) para un concurso desarrollado por la Fundación MAPFRE Guanarteme.
+Desarrollé, casi en su totalidad, una [aplicación web tipo Quiz](#concurso-fundación-mapfre-guanarteme-🥈) para un concurso desarrollado por la Fundación MAPFRE Guanarteme.
 
 ## 📂 Proyectos y reconocimientos
 
