@@ -38,7 +38,7 @@ Impartí clases particulares de la asignatura de _Fundamentos de Programación 1
 
 Desarrollé una landing page para un proyecto de NFTs llamado [Solana Crypto Foxes](https://twitter.com/SolCryptoFoxes_).
 
-Desarrollé, casi en su totalidad, una [aplicación web tipo Quiz](#concurso-fundación-mapfre-guanarteme-🥈) para un concurso desarrollado por la Fundación MAPFRE Guanarteme.
+Desarrollé, casi en su totalidad, una [aplicación web tipo Quiz](#concurso-fundación-mapfre-guanarteme) para un concurso desarrollado por la Fundación MAPFRE Guanarteme.
 
 ## 📂 Proyectos y reconocimientos
 
@@ -51,9 +51,9 @@ Desarrollado en HTML, CSS, Botstrap, JavaScript, PHP, Laravel 7 y MySQL, y despl
 | 🚧 En construcción 🚧<br/>~~Repositorio 🐙~~ | 🚧 En construcción 🚧<br/>~~Pruébala aquí 👈~~ |
 | -------------------------------------------- | ---------------------------------------------- |
 
-### Concurso Fundación MAPFRE Guanarteme 🥈
+### Concurso Fundación MAPFRE Guanarteme
 
-Proyecto finalista en el concurso de la Fundación MAPFRE Guanarteme en colaboración con la Universidad de Las Palmas de Gran Canaria; desarrollado en HTML, CSS, JavaScript y XML, utilizando Scorm como conexión con el servidor de la empresa.
+Proyecto finalista 🥈 en el concurso de la Fundación MAPFRE Guanarteme en colaboración con la Universidad de Las Palmas de Gran Canaria; desarrollado en HTML, CSS, JavaScript y XML, utilizando Scorm como conexión con el servidor de la empresa.
 
 Juego estilo Quiz para formar a los empleados de MAPFRE, con sistema de puntuación e historial de juegos realizados. Este sistema no está implementado en la versión desplegada, ya que se necesita una conexión a un servidor propio de la empresa para que funcione.
 
