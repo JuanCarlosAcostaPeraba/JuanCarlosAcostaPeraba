@@ -4,7 +4,7 @@
 
 <h1>!Hola 👋🏼!<br />Soy Juan Carlos</h1>
 
-**👨🏼‍💻 Desarrollador Web Junior con 5 meses de experiencia y muchas ganas de aprender y mejorar 💛**
+**👨🏼‍💻 Desarrollador Web con 5 meses de experiencia y muchas ganas de aprender y mejorar 💛**
 
 > 🚀 To infinity... and beyond!
 
