@@ -28,7 +28,7 @@ Sigo mejorando mis habilidades como desarrollador front para especializarme en a
 
 - **🎨 CSS** para evitar la implementación de frameworks en las webs y hacerlas así más rápidas y ligeras.
 - **💛 JavaScript Vanilla** para mejorar mis habilidades como desarrollador front-end y poder pasar al desarrollo full-stack con JavaScript.
-- **🚀 Astro** como framework para crear webs más rápidas y potenciandolas con los componentes.
+- **🚀 Astro** como framework para crear webs más rápidas y potenciándolas con los componentes.
 
 ## 🧑🏼‍💻 Mi experiencia
 
