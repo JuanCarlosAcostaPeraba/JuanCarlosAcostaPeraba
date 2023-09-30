@@ -63,7 +63,7 @@ Juego estilo Quiz para formar a los empleados de MAPFRE, con sistema de puntuaci
 
 ### Apuntes universitarios
 
-| Asignatura                          | Curso | Enlace 🔗                                                                                                    |
+| Asignatura                          | Curso | Enlace                                                                                                       |
 | :---------------------------------- | :---- | :----------------------------------------------------------------------------------------------------------- |
 | Tecnologías de Programación         | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/tp-practicas)                                                 |
 | Algoritmos y Programación           | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/ap-practicas)                                                 |
