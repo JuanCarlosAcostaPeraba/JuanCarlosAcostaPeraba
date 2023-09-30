@@ -22,6 +22,8 @@
 
 Realicé la Formación Profesional de **Técnico Superior en Desarrollo de Aplicaciones Web** y continué formándome por mi cuenta en la programación web, principalmente front-end.
 
+Actualmente estoy cursando el **Grado en Ingeniería Informática** en la Universidad de Las Palmas de Gran Canaria.
+
 Sigo mejorando mis habilidades como desarrollador front para especializarme en accesibilidad y pasar al desarrollo web full-stack con JavaScript.
 
 ## 📚 Actualmente estoy aprendiendo
@@ -32,7 +34,7 @@ Sigo mejorando mis habilidades como desarrollador front para especializarme en a
 
 ## 🧑🏼‍💻 Mi experiencia
 
-Trabajé durante 5 meses [3 meses de prácticas / 2 meses de trabajador] en la empresa en la que realicé las prácticas de FP como desarrollador web full-stack, desarrollando una [aplicación web para la gestión de facturas](#projecto-final-de-fp).
+Trabajé durante 5 meses [3 meses de prácticas / 2 meses de trabajador] en la empresa en la que realicé las prácticas de FP como desarrollador web full-stack, desarrollando una [aplicación web para la gestión de facturas](#proyecto-final-de-fp).
 
 Impartí clases particulares de la asignatura de _Fundamentos de Programación 1 (Python)_ y _Fundamentos de Programación 2 (Python y Java)_ a alumnos de primer curso de la carrera de Ingeniería Informática, y de la asignatura _Tecnologías de la Programación (POO en Java)_ a alumnos de segundo curso de esta.
 
@@ -40,25 +42,36 @@ Desarrollé una landing page para un proyecto de NFTs llamado [Solana Crypto Fox
 
 Y desarrollé, casi en su totalidad, una [aplicación web tipo Quiz](#concurso-fundación-mapfre-guanarteme) para un concurso desarrollado por la Fundación MAPFRE Guanarteme.
 
-## 📂 Proyectos y reconocimientos
+## 📂 Proyectos
 
 ### Proyecto Final de FP
 
-Aplicación web dedicada a la creación y gestión de facturas, con posibilidad de exportarlas a formato PDF, exportar la base de datos, seleccionando las fechas, a Excel, y con acceso de múltiples empleados, aunque el control de borrar facturas de la base de datos sólo lo tiene el jefe.
+Aplicación web dedicada a la creación y gestión de facturas, con posibilidad de exportarlas a formato PDF; exportar una selección de facturas, seleccionando las fechas, a Excel, y con acceso de múltiples empleados con diferentes permisos.
 
-Desarrollado en HTML, CSS, Botstrap, JavaScript, PHP, Laravel 7 y MySQL, y desplegado en el servidor interno de la empresa.
+Desarrollado en HTML, CSS, Bootstrap, JavaScript, PHP, Laravel 7 y MySQL.
 
-| 🚧 En construcción 🚧<br/>~~Repositorio 🐙~~ | 🚧 En construcción 🚧<br/>~~Pruébala aquí 👈~~ |
-| -------------------------------------------- | ---------------------------------------------- |
+Desplegado en servidor interno de la empresa.
 
 ### Concurso Fundación MAPFRE Guanarteme
 
-Proyecto finalista 🥈 en el concurso de la Fundación MAPFRE Guanarteme en colaboración con la Universidad de Las Palmas de Gran Canaria; desarrollado en HTML, CSS, JavaScript y XML, utilizando Scorm como conexión con el servidor de la empresa.
+Proyecto finalista 🏆 en el concurso de la Fundación MAPFRE Guanarteme en colaboración con la Universidad de Las Palmas de Gran Canaria; desarrollado en HTML, CSS, JavaScript y XML, utilizando Scorm como conexión con el servidor de la empresa.
 
 Juego estilo Quiz para formar a los empleados de MAPFRE, con sistema de puntuación e historial de juegos realizados. Este sistema no está implementado en la versión desplegada, ya que se necesita una conexión a un servidor propio de la empresa para que funcione.
 
 | [Repositorio 🐙](https://github.com/JIVANU-Inc/gamificacion) | [Pruébala aquí 👈](https://jivanu-inc.github.io/gamificacion/#inicio) |
 | ------------------------------------------------------------ | --------------------------------------------------------------------- |
+
+### Apuntes universitarios
+
+| Asignatura                          | Curso | Repositorio 🐙                                                                                               |
+| ----------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------ |
+| Tecnologías de Programación         | 2º    | [📚](https://github.com/JuanCarlosAcostaPeraba/tp-practicas)                                                 |
+| Algoritmos y Programación           | 2º    | [📚](https://github.com/JuanCarlosAcostaPeraba/ap-practicas)                                                 |
+| Estructuras de Datos y Programación | 2º    | [📚](https://github.com/JuanCarlosAcostaPeraba/edp-practicas)                                                |
+| Periféricos e Interfaces            | 2º    | [📚](https://github.com/JuanCarlosAcostaPeraba/pi-practicas)                                                 |
+| Arquitectura de Computadores        | 2º    | [📚](https://jcap-dev.notion.site/AC-efe718ee760a468abfad64c511c15509?pvs=4)                                 |
+| Ingeniería del Software 1           | 2º    | [📚](https://jcap-dev.notion.site/IS1-f7a829bd8429420fa6ab4f1b3d51ae0e?pvs=4)                                |
+| Métodos Numéricos                   | 2º    | [📚](https://jcap-dev.notion.site/2e1cc3fc2cf64f1a9d5523c77ca6c31a?v=ebbbbb99629942adb44dc9804f5d32c7&pvs=4) |
 
 ## 🛠️ Tecnologías y herramientas
 
