@@ -63,16 +63,16 @@ Juego estilo Quiz para formar a los empleados de MAPFRE, con sistema de puntuaci
 
 ### Apuntes universitarios
 
-| Asignatura                          | Curso | Enlace                                                                                                       |
-| :---------------------------------- | :---- | :----------------------------------------------------------------------------------------------------------- |
-| Tecnologías de Programación         | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/tp-practicas)                                                 |
-| Algoritmos y Programación           | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/ap-practicas)                                                 |
-| Periféricos e Interfaces            | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/pi-practicas)                                                 |
-| Estructuras de Datos y Programación | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/edp-practicas)                                                |
-| Métodos Estadísticos                | 2º    | [📚](https://jcap-dev.notion.site/ME-29694f325ba64e49a2c0e1960849a8e3?pvs=4)                                 |
-| Ingeniería del Software 1           | 2º    | [📚](https://jcap-dev.notion.site/IS1-f7a829bd8429420fa6ab4f1b3d51ae0e?pvs=4)                                |
-| Arquitectura de Computadores        | 2º    | [📚](https://jcap-dev.notion.site/AC-efe718ee760a468abfad64c511c15509?pvs=4)                                 |
-| Métodos Numéricos                   | 2º    | [📚](https://jcap-dev.notion.site/2e1cc3fc2cf64f1a9d5523c77ca6c31a?v=ebbbbb99629942adb44dc9804f5d32c7&pvs=4) |
+| Siglas | Asignatura                          | Curso | Enlace                                                                                                       |
+| :----- | :---------------------------------- | :---- | :----------------------------------------------------------------------------------------------------------- |
+| TP     | Tecnologías de Programación         | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/tp-practicas)                                                 |
+| AP     | Algoritmos y Programación           | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/ap-practicas)                                                 |
+| PI     | Periféricos e Interfaces            | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/pi-practicas)                                                 |
+| EDP    | Estructuras de Datos y Programación | 2º    | [🐙](https://github.com/JuanCarlosAcostaPeraba/edp-practicas)                                                |
+| ME     | Métodos Estadísticos                | 2º    | [📚](https://jcap-dev.notion.site/ME-29694f325ba64e49a2c0e1960849a8e3?pvs=4)                                 |
+| IS1    | Ingeniería del Software 1           | 2º    | [📚](https://jcap-dev.notion.site/IS1-f7a829bd8429420fa6ab4f1b3d51ae0e?pvs=4)                                |
+| AC     | Arquitectura de Computadores        | 2º    | [📚](https://jcap-dev.notion.site/AC-efe718ee760a468abfad64c511c15509?pvs=4)                                 |
+| MN     | Métodos Numéricos                   | 2º    | [📚](https://jcap-dev.notion.site/2e1cc3fc2cf64f1a9d5523c77ca6c31a?v=ebbbbb99629942adb44dc9804f5d32c7&pvs=4) |
 
 ## 🛠️ Tecnologías y herramientas
 
