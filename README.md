@@ -79,10 +79,6 @@ Tercer año:
 | :------------------------------------------------------------ | :----------------------------------------------------------------------------- |
 | [🐙](https://github.com/JuanCarlosAcostaPeraba/aso-practicas) | [🔗](https://quizizz.com/profile/5a93f84fba0208001f12756a?section=collections) |
 
-### Playlist de Spotify 🎧
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7u9fykgqOd2cGK5LOnESPQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ## 🛠️ Tecnologías y herramientas
 
 [![Logotipos de tecnologías con los que Juan Carlos suele trabajar: Git, Github, MD, Visual Studio Code, VIM, Bash, Linux, Figma](https://skillicons.dev/icons?i=git,github,md,vscode,vim,bash,linux,figma)](https://skillicons.dev)
