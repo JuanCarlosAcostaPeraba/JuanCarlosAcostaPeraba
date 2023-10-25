@@ -77,7 +77,7 @@ Tercer año:
 
 | ASO                                                           | DB2                                                                            |
 | :------------------------------------------------------------ | :----------------------------------------------------------------------------- |
-| [🐙](https://github.com/JuanCarlosAcostaPeraba/aso-practicas) | [🔗](https://quizizz.com/profile/5a93f84fba0208001f12756a?section=collections) |
+| [🐙](https://github.com/JuanCarlosAcostaPeraba/aso-practicas) | [🔗](https://quizizz.com/profile/5a93f84fba0208001f12756a?section=collections) [📚](https://jcap-dev.notion.site/BD2-8cb3564b3e57458b82dfe5ffba2de781?pvs=4)|
 
 ## 🛠️ Tecnologías y herramientas
 
