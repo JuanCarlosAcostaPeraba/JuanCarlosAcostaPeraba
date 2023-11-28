@@ -10,11 +10,10 @@
 
 [![Enlace al Portfolio de Juan Carlos](https://img.shields.io/badge/-Portfolio-%23FFDD58?style=for-the-badge)](https://juancarlosacostaperaba.github.io)
 
-[![Enlace al LinkedIn de Juan Carlos](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosacostaperaba/)
-[![Enlace al Twitter de Juan Carlos](https://img.shields.io/twitter/follow/jcap_dev?label=Twitter&logo=Twitter&style=social)](https://twitter.com/jcap_dev)
-[![Enlace al GitHub de Juan Carlos](https://img.shields.io/github/followers/JuanCarlosAcostaPeraba?label=GitHub&logo=github&style=social)](https://github.com/JuanCarlosAcostaPeraba)
+[![Enlace al Twitter de Juan Carlos](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jcap_dev)
+[![Enlace al LinkedIn de Juan Carlos](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosacostaperaba/)
 
-[![Botón para enviar un Mail a juancarlos.ap.dev@gmail.com](https://img.shields.io/badge/-Contáctame%20vía%20Mail-DC3545?style=for-the-social&logo=gmail&logoColor=white)](mailto:juancarlos.ap.dev@gmail.com)
+[![Botón para enviar un Mail a juancarlos.ap.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancarlos.ap.dev@gmail.com)
 
 </div>
 
@@ -69,15 +68,15 @@ Primer año:
 
 Segundo año:
 
-| TP                                                           | AP                                                           | PI                                                           | EDP                                                           | ME                                                                           | IS1                                                                           | AC                                                                           | MN                                                                                                                                                           |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| TP                                                           | AP                                                           | PI                                                                                                                                               | EDP                                                           | ME                                                                           | IS1                                                                           | AC                                                                           | MN                                                                                                           |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
 | [🐙](https://github.com/JuanCarlosAcostaPeraba/tp-practicas) | [🐙](https://github.com/JuanCarlosAcostaPeraba/ap-practicas) | [🐙](https://github.com/JuanCarlosAcostaPeraba/pi-practicas) [📚](https://jcap-dev.notion.site/PI-Tables-11497212f1754cd2a2508ced430d663e?pvs=4) | [🐙](https://github.com/JuanCarlosAcostaPeraba/edp-practicas) | [📚](https://jcap-dev.notion.site/ME-29694f325ba64e49a2c0e1960849a8e3?pvs=4) | [📚](https://jcap-dev.notion.site/IS1-f7a829bd8429420fa6ab4f1b3d51ae0e?pvs=4) | [📚](https://jcap-dev.notion.site/AC-efe718ee760a468abfad64c511c15509?pvs=4) | [📚](https://jcap-dev.notion.site/2e1cc3fc2cf64f1a9d5523c77ca6c31a?v=ebbbbb99629942adb44dc9804f5d32c7&pvs=4) |
 
 Tercer año:
 
-| ASO                                                           | DB2                                                                            |
-| :------------------------------------------------------------ | :----------------------------------------------------------------------------- |
-| [🐙](https://github.com/JuanCarlosAcostaPeraba/aso-practicas) | [📚](https://jcap-dev.notion.site/BD2-8cb3564b3e57458b82dfe5ffba2de781?pvs=4)|
+| ASO                                                           | DB2                                                                           |
+| :------------------------------------------------------------ | :---------------------------------------------------------------------------- |
+| [🐙](https://github.com/JuanCarlosAcostaPeraba/aso-practicas) | [📚](https://jcap-dev.notion.site/BD2-8cb3564b3e57458b82dfe5ffba2de781?pvs=4) |
 
 ## 🛠️ Tecnologías y herramientas
 
