@@ -60,23 +60,19 @@ Juego estilo Quiz para formar a los empleados de MAPFRE, con sistema de puntuaci
 
 ### Apuntes universitarios 📔
 
-Primer año:
+[🔗 Todos los apuntes que poseo/he rescatado de la carrera están en aquí.](https://jcap-dev.notion.site/Bears-Notes-3a357a4c171447e0a202c1933c0f5b54)
 
-| FC                                                                           |
-| :--------------------------------------------------------------------------- |
-| [📚](https://jcap-dev.notion.site/FC-5c7525691fde4c3aa30cc7df045c8a3c?pvs=4) |
+También tengo algunos repositorios con prácticas de diferentes asignaturas:
 
-Segundo año:
-
-| TP                                                           | AP                                                           | PI                                                                                                                                               | EDP                                                           | ME                                                                           | IS1                                                                           | AC                                                                           | MN                                                                                                           |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| [🐙](https://github.com/JuanCarlosAcostaPeraba/tp-practicas) | [🐙](https://github.com/JuanCarlosAcostaPeraba/ap-practicas) | [🐙](https://github.com/JuanCarlosAcostaPeraba/pi-practicas) [📚](https://jcap-dev.notion.site/PI-Tables-11497212f1754cd2a2508ced430d663e?pvs=4) | [🐙](https://github.com/JuanCarlosAcostaPeraba/edp-practicas) | [📚](https://jcap-dev.notion.site/ME-29694f325ba64e49a2c0e1960849a8e3?pvs=4) | [📚](https://jcap-dev.notion.site/IS1-f7a829bd8429420fa6ab4f1b3d51ae0e?pvs=4) | [📚](https://jcap-dev.notion.site/AC-efe718ee760a468abfad64c511c15509?pvs=4) | [📚](https://jcap-dev.notion.site/2e1cc3fc2cf64f1a9d5523c77ca6c31a?v=ebbbbb99629942adb44dc9804f5d32c7&pvs=4) |
-
-Tercer año:
-
-| ASO                                                           | DB2                                                                           |
-| :------------------------------------------------------------ | :---------------------------------------------------------------------------- |
-| [🐙](https://github.com/JuanCarlosAcostaPeraba/aso-practicas) | [📚](https://jcap-dev.notion.site/BD2-8cb3564b3e57458b82dfe5ffba2de781?pvs=4) |
+| Asignatura | Repositorio |
+| ---------- | ----------- |
+| AP | [🐙](https://github.com/JuanCarlosAcostaPeraba/ap-practicas?tab=readme-ov-file#algoritmos-y-programaci%C3%B3n) |
+| TP | [🐙](https://github.com/JuanCarlosAcostaPeraba/tp-practicas#tecnolog%C3%ADas-de-programaci%C3%B3n) |
+| PI | [🐙](https://github.com/JuanCarlosAcostaPeraba/pi-practicas?tab=readme-ov-file#perif%C3%A9ricos-e-interfaces) |
+| AC | [🐙](https://github.com/JuanCarlosAcostaPeraba/mul-matrices-paralelo?tab=readme-ov-file#programaci%C3%B3n-paralela-de-la-multiplicaci%C3%B3n-de-matrices) |
+| EDP | [🐙](https://github.com/JuanCarlosAcostaPeraba/edp-practicas?tab=readme-ov-file#estructuras-de-datos-y-programaci%C3%B3n) |
+| FSI | [P1 🐙](https://github.com/JuanCarlosAcostaPeraba/fsi-pract-1?tab=readme-ov-file#algoritmo-de-b%C3%BAsqueda) [P2 🐙](https://github.com/JuanCarlosAcostaPeraba/fsi-pract-2?tab=readme-ov-file#redes-neuronales)|
+| ASO | [🐙](https://github.com/JuanCarlosAcostaPeraba/aso-practicas?tab=readme-ov-file#administraci%C3%B3n-de-sistemas-operativos) |
 
 ## 🛠️ Tecnologías y herramientas
 
