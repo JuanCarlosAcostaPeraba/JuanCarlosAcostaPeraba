@@ -72,7 +72,6 @@ También tengo algunos repositorios con prácticas de diferentes asignaturas:
 | AC | [🐙](https://github.com/JuanCarlosAcostaPeraba/mul-matrices-paralelo?tab=readme-ov-file#programaci%C3%B3n-paralela-de-la-multiplicaci%C3%B3n-de-matrices) |
 | EDP | [🐙](https://github.com/JuanCarlosAcostaPeraba/edp-practicas?tab=readme-ov-file#estructuras-de-datos-y-programaci%C3%B3n) |
 | FSI | [P1 🐙](https://github.com/JuanCarlosAcostaPeraba/fsi-pract-1?tab=readme-ov-file#algoritmo-de-b%C3%BAsqueda) [P2 🐙](https://github.com/JuanCarlosAcostaPeraba/fsi-pract-2?tab=readme-ov-file#redes-neuronales)|
-| ASO | [🐙](https://github.com/JuanCarlosAcostaPeraba/aso-practicas?tab=readme-ov-file#administraci%C3%B3n-de-sistemas-operativos) |
 
 ## 🛠️ Tecnologías y herramientas
 
