@@ -23,15 +23,9 @@ Realicé la Formación Profesional de **Técnico Superior en Desarrollo de Aplic
 
 Sigo mejorando mis habilidades como desarrollador front-end para especializarme en accesibilidad y pasar al desarrollo web full-stack con JavaScript.
 
-## Estoy aprendiendo 📚
-
-- **CSS** para evitar la implementación de frameworks en las webs y hacerlas así más rápidas y ligeras.
-- **JavaScript Vanilla** para mejorar mis habilidades como desarrollador front-end y poder pasar al desarrollo full-stack con JavaScript.
-- **Astro** como framework para crear webs más rápidas y potenciándolas con los componentes.
-
 ## Mi experiencia 👨‍💻
 
-Trabajé durante 5 meses [3 meses de prácticas / 2 meses de trabajador] en la empresa en la que realicé las prácticas de FP como desarrollador web full-stack, desarrollando una [aplicación web para la gestión de facturas](#proyecto-final-de-fp).
+Trabajé durante 5 meses [3 meses de prácticas / 2 meses de desarrollador] en la empresa en la que realicé las prácticas de FP como desarrollador web full-stack, desarrollando una [aplicación web para la gestión de facturas](#proyecto-final-de-fp).
 
 Impartí clases particulares de la asignatura de _Fundamentos de Programación 1 (Python)_ y _Fundamentos de Programación 2 (Python y Java)_ a alumnos de primer curso de la carrera de Ingeniería Informática, y de la asignatura _Tecnologías de la Programación (POO en Java)_ a alumnos de segundo curso de esta.
 
@@ -72,18 +66,6 @@ También tengo algunos repositorios con prácticas de diferentes asignaturas:
 | AC | [🐙](https://github.com/JuanCarlosAcostaPeraba/mul-matrices-paralelo?tab=readme-ov-file#programaci%C3%B3n-paralela-de-la-multiplicaci%C3%B3n-de-matrices) |
 | EDP | [🐙](https://github.com/JuanCarlosAcostaPeraba/edp-practicas?tab=readme-ov-file#estructuras-de-datos-y-programaci%C3%B3n) |
 | FSI | [P1 🐙](https://github.com/JuanCarlosAcostaPeraba/fsi-pract-1?tab=readme-ov-file#algoritmo-de-b%C3%BAsqueda) [P2 🐙](https://github.com/JuanCarlosAcostaPeraba/fsi-pract-2?tab=readme-ov-file#redes-neuronales)|
-
-## 🛠️ Tecnologías y herramientas
-
-[![Logotipos de tecnologías con los que Juan Carlos suele trabajar: Git, Github, MD, Visual Studio Code, VIM, Bash, Linux, Figma](https://skillicons.dev/icons?i=git,github,md,vscode,vim,bash,linux,figma)](https://skillicons.dev)
-
-### Front-End
-
-[![Logotipos de tecnologías con los que Juan Carlos suele trabajar el front-end: JavaScript, HTML, CSS, Astro, Tailwind, Boostrap, jQuery](https://skillicons.dev/icons?i=js,html,css,astro,tailwind,bootstrap,jquery)](https://skillicons.dev)
-
-### Back-End
-
-[![Logotipos de tecnologías con los que Juan Carlos suele trabajar el back-end: PHP, , Laravel, MySQL](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
 
 ## GitHub Stats 📊
 
