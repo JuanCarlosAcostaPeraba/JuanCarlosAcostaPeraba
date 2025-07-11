@@ -1,39 +1,50 @@
-# 👋 Hi there, I'm Juan Carlos Acosta Perabá
+# 👋 Hi, I'm Juan Carlos Acosta Perabá
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on **JavaScript**, **Web Development**, and **Native Mobile Development**. I enjoy building open-source projects, learning new technologies, and sharing knowledge with the community.
+Welcome to my GitHub! I'm a bilingual **Computer Engineer** specialized in **Full-Stack** and **Mobile Development**, passionate about building impactful solutions with **JavaScript**, **Kotlin**, and **Swift**. I thrive in collaborative environments and love tackling challenges that push the boundaries of technology.
 
 ## 🚀 About Me
 
-- 🎓 I'm currently in my final year of **Computer Engineering** at **ULPGC**.
-- 💻 Passionate about **JavaScript Full Stack Development**, **Kotlin Mobile Development**, and exploring **Swift for iOS**.
-- 🏗️ I’m actively working on my **Final Degree Project (TFG)** and my **personal portfolio**.
-- 🌱 Always learning and experimenting with **new web & mobile technologies**.
-- 👨‍🏫 I also teach **Programming and Computer Science** to university students.
+- 🎓 Just graduated in **Computer Science Engineering**.
+- 🌍 Looking to grow my career in an **international and collaborative environment**.
+- Learning **React**, **Next.js**, **NestJS** and **Angular** to expand my skill set.
+
+## 💡 Tech Stack
+
+**Languages & Frameworks:**  
+JavaScript (Node.js, Express, NestJS, React, Next.js, Astro) • Kotlin (Android) • Swift (iOS) • HTML • CSS
+
+**Tools & Platforms:**  
+Git • GitHub • Firebase • MySQL • SQLite • MongoDB • Tailwind CSS • Agile (Scrum, Kanban)
 
 ## 🌟 Featured Projects
 
 ### 🏆 Gamification App
 
-Finalist project in a competition organized by *Fundación MAPFRE Guanarteme*.
+Finalist in a tech competition organized by *Fundación MAPFRE Guanarteme*.
 
-- **Tech Stack:** HTML, CSS, JavaScript, XML, SCORM.
+- **Tech Stack:** HTML, CSS, JavaScript, XML, SCORM  
 - 🔗 [Live Demo](https://jivanu-inc.github.io/gamificacion/) | [GitHub Repo](https://github.com/JIVANU-Inc/gamificacion)
 
-### 🎨 Personal Portfolio (Coming Soon)
+### 📲 Native Billing App (TFG)
 
-A website to showcase my **projects, skills, and open-source contributions**.
+A mobile application for generating and managing invoices, developed with **Swift**, **Firebase**, and **MVVM architecture**.  
 
-## 📊 GitHub Stats
+- [GitHub Repo](https://github.com/JuanCarlosAcostaPeraba/QuickBill-App)
 
-![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCarlosAcostaPeraba&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlosAcostaPeraba&layout=compact&theme=radical)
+### 🎨 Personal Portfolio
 
-## 📫 Connect with Me
+A site to showcase my **projects**, **skills**, and **open-source contributions**.  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/juancarlosacostaperaba/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x)](https://twitter.com/jcap_dev)
-[![Personal Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://juancarlosacostaperaba.github.io)
+- 🔗 [juancarlosacostaperaba.github.io](https://juancarlosacostaperaba.github.io)
+
+> Working on a new version
+
+## 📫 Let's Connect
+
+- [💼 LinkedIn](https://www.linkedin.com/in/juancarlosacostaperaba)
+- [✉️ Email](mailto:juancarlos.ap.dev@gmail.com)
+- [🐦 X (Twitter)](https://twitter.com/jcap_dev)
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you're interested in collaborating. 🚀
+Thanks for visiting my profile! If you're looking for a proactive developer to collaborate or join your team — feel free to reach out to me. I'm always open to new opportunities and challenges!
