@@ -38,8 +38,6 @@
 
 </div>
 
----
-
 ## 💎 Personal Traits
 
 ```json
@@ -74,16 +72,12 @@
 }
 ```
 
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanCarlosAcostaPeraba&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=FF00FF" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCarlosAcostaPeraba&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
-
----
 
 ## 💾 Tech Arsenal
 
@@ -129,8 +123,6 @@
 ![Agile](https://img.shields.io/badge/Agile-009639?style=for-the-badge&logo=agile&logoColor=white)
 
 </div>
-
----
 
 ## 🏆 Completed Objectives
 
@@ -184,8 +176,6 @@
 </td>
 </tr>
 </table>
-
----
 
 <div align="center">
 
