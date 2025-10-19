@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="jcap.png" alt="Juan Carlos Acosta Perabá - Cyberpunk Profile" width="600" />
+<img src="jcap.webp" alt="Juan Carlos Acosta Perabá - Cyberpunk Profile" width="600" />
 
 <p align="center">
 
